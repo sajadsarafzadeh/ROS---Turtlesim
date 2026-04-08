@@ -20,8 +20,6 @@ The final output is the name **SJD**, written inside the turtlesim environment.
   Launch file for running turtlesim and the drawing node together
 - `package.xml`  
   ROS package configuration and dependencies
-- `docs/report.pdf`  
-  Project report and screenshots
 
 ## Technologies Used
 - ROS
